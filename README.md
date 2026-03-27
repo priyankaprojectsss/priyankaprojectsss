@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Connect with me
-- Gmail: _your email here_
+- Gmail: priyanka8851474752@gmail.com
 
 ---
 
