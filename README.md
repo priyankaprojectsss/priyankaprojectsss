@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h3 align="center">BCA Student | Beginner Web Developer | Learning AI & Cloud</h3>
 
-<!--
-**priyankaprojectsss/priyankaprojectsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 BCA 1st Year Student  
+- 🌱 Currently learning **HTML, CSS, JavaScript, AI Tools & Cloud**
+- 🚀 Building small projects to improve my skills  
+- 💡 Interested in **AI, Web Development & Mobile Apps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills (Beginner)
+- HTML  
+- CSS  
+- Basic JavaScript  
+- UI/UX (Canva)
+- AI Tools (ChatGPT, Claude, Gemini)
+
+---
+
+### 📌 Projects
+- Amazon Clone (HTML + CSS)  
+- Portfolio Website  
+- Routine Pro App (Basic UI)  
+- AI Summarizer (Learning Stage)
+
+---
+
+### 📫 Connect with me
+- Gmail: _your email here_
+
+---
+
+⭐ **Thanks for visiting my profile!**
