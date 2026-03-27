@@ -1,36 +1,23 @@
-<h1 align="center">Hi 👋, I'm Priyanka</h1>
-<h3 align="center">BCA Student | Beginner Web Developer | Learning AI & Cloud</h3>
+# Hi, I'm Priyanka 👋  
+### BCA Student | Aspiring AI & Web Developer | Learning Cloud + Generative AI
 
----
+🌱 **Currently learning:**  
+- HTML, CSS, JavaScript  
+- AI Tools & Prompt Engineering  
+- Google Cloud Gen AI Academy  
+- GitHub & Open-Source basics  
 
-### 👩‍💻 About Me
-- 🎓 BCA 1st Year Student  
-- 🌱 Currently learning **HTML, CSS, JavaScript, AI Tools & Cloud**
-- 🚀 Building small projects to improve my skills  
-- 💡 Interested in **AI, Web Development & Mobile Apps**
-
----
-
-### 🛠️ Skills (Beginner)
-- HTML  
-- CSS  
-- Basic JavaScript  
-- UI/UX (Canva)
-- AI Tools (ChatGPT, Claude, Gemini)
-
----
-
-### 📌 Projects
+💻 **Projects:**  
 - Amazon Clone (HTML + CSS)  
 - Portfolio Website  
-- Routine Pro App (Basic UI)  
-- AI Summarizer (Learning Stage)
+- Registration Form  
+- AI Summarizer App (building)
 
----
+📌 **Interests:**  
+AI • Web Dev • Cloud • Hackathons • Research
 
-### 📫 Connect with me
-- Gmail: priyanka8851474752@gmail.com
+📫 **Reach me at:**  
+**Email:** priyankaprojectsss@gmail.com  
 
----
-
-⭐ **Thanks for visiting my profile!**
+⭐ **Fun Fact:**  
+I love building AI projects from my phone!
